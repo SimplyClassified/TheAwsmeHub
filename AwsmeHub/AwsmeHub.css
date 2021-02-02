@@ -1,0 +1,49 @@
+body {
+background-color:#424242;
+}
+
+h1.Title {
+text-align:center;
+color:White;
+}
+
+h2.Socials {
+text-align:center;
+color:Purple;
+}
+
+a.Purple {
+color:#FE2EF7;
+}
+
+a.Aqua {
+color:#00BFFF;
+}
+
+a.Insta {
+color:#B404AE;
+}
+
+a.Snap {
+color:#F7FE2E;
+}
+
+a.Back {
+color:White;
+}
+
+a.YouTube {
+color:#FF0000;
+}
+
+a.TikTok {
+color:#FFFFFF;
+}
+
+a.Twitch {
+color:#8904B1;
+}
+
+h2.FunnyClips {
+text-align:center;
+}
